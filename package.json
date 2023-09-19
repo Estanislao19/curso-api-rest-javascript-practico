@@ -1,0 +1,11 @@
+{
+  "name": "curso-api-rest-javascript-practico",
+  "version": "1.0.0",
+  "description": "Curso Practico de consumo de API REST con JavaScript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Estanislao Valdez",
+  "license": "MIT"
+}
